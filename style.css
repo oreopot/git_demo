@@ -1,0 +1,21 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.title {
+    color: blueviolet;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+
+#sub-title-3 {
+    font-size: 24px;
+    color: blanchedalmond;
+}
+
+.primary {
+    border: 2px dotted brown;
+    margin-left: 100px;
+    padding-left: 25px;
+    font-size: 50px;
+}
